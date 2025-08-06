@@ -1,4 +1,2 @@
 # apnacollege-demo
-this is my first Git Repository
-<br>
-Author - TMES
+this is my first Git Repository Author - TMES
